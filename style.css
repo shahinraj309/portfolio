@@ -1,4 +1,5 @@
 body{
+    margin: 0px;
 
   font-family: 'Courier New', Courier, monospace;
   
@@ -11,13 +12,22 @@ body{
 }
 .half-width{
     width: 40%;
-   
-   
     float: left;
     margin: 5%;
    
 }
 .half-width img{
-    width: 70%;
+    width: 80%;
+   
+   
+}
+
+.topbanner{
+   
+    background-image: url("image/top-banner.png");
+   background-repeat: no-repeat;
+}
+section{
+    height:500px;
    
 }
